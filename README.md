@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Matheus, i'm a backend software developer, currently in the second period of software engineering.</p>
+<p align="left">My name is Matheus, i'm a backend software developer, currently in the third period of software engineering.</p>
 
 ###
 
