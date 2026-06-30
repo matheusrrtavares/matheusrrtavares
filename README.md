@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">Estou atualmente no 3º período de Engenharia de Software na UniEVANGÉLICA e atuando como Estagiário de Desenvolvimento, onde aplico o ecossistema Java/SpringBoot para resolver problemas reais. Sou apaixonado por desafios backend, arquitetura limpa e microsserviços. <br>Meu objetivo é solidificar minha carreira como Desenvolvedor Java Júnior, entregando código escalável e bem testado.</h3>
+<h3 align="left">Estou atualmente no 4º período de Engenharia de Software na UniEVANGÉLICA e atuando como Estagiário de Desenvolvimento, onde aplico o ecossistema Java/SpringBoot para resolver problemas reais. Sou apaixonado por desafios backend, arquitetura limpa e microsserviços. <br>Meu objetivo é solidificar minha carreira como Desenvolvedor Java Júnior, entregando código escalável e bem testado.</h3>
 
 ###
 
