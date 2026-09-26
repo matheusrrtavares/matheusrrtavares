@@ -15,11 +15,11 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hey there👋</h1>
+<h1 data-importer="text" align="center"> Hey there👋 </h1>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  Sobre mim</h3>
+<h3 data-importer="text" align="left">👩‍💻  About me </h3>
 
 ###
 
@@ -27,11 +27,11 @@
 
 <h3 data-importer="text" align="left">I mostly work on backend and android stuff - Java, Kotlin, Spring Boot</h3>
 
-<h3 data-importer="text" align="left">This is a fresh profile where i'll be uploading some projects, experiments, study stuff and things I'm currently working on. Everything here is built from scratch, no copy/paste</h3>
+<h3 data-importer="text" align="left">This is a space where i'll be uploading some projects, experiments, study stuff and things I'm currently working on. Everything here is built from scratch, no copy/paste</h3>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Stack & Ferramentas</h3>
+<h3 data-importer="text" align="left">🛠 Tools and Tech</h3>
 
 ###
 
