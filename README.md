@@ -15,7 +15,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Olá, eu sou o Matheus👋</h1>
+<h1 data-importer="text" align="center">Hey there👋</h1>
 
 ###
 
@@ -23,7 +23,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">Sou desenvolvedor Backend Java, apaixonado pela resolução de problemas reais. Tenho experiência prática com desenvolvimento de aplicações Web e construção de APIs.<br>Atualmente estou cursando o 4º período de Engenharia de Software e estou explorando o desenvolvimento de aplicações mobile para dispositivos Android.</h3>
+<h3 data-importer="text" align="left">I'm Matheus, a software engineer based on Brazil</h3>
+
+<h3 data-importer="text" align="left">I mostly work on backend and android stuff - Java, Kotlin, Spring Boot</h3>
+
+<h3 data-importer="text" align="left">This is a fresh profile where i'll be uploading some projects, experiments, study stuff and things I'm currently working on. Everything here is built from scratch, no copy/paste</h3>
 
 ###
 
