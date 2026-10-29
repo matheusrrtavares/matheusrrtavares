@@ -33,31 +33,6 @@
 
 ---
 
-## 🏗️ Flagship Architecture: Distributed Task Scheduling Microservices
-
-```mermaid
-flowchart LR
-    Client(["💻 Client / Swagger UI"]) -->|REST + Bearer JWT| BFF["🛡️ bff-agendador-tarefas<br/>(API Gateway / OpenFeign / Cron)"]
-    
-    BFF -->|OpenFeign| UserMS["🔐 usuario<br/>(Spring Security + JWT)"]
-    BFF -->|OpenFeign + JWT| TaskMS["📅 agendador-tarefas<br/>(Core Domain & Status)"]
-    BFF -->|Cron Trigger| NotifMS["📧 notificacao<br/>(JavaMailSender + Thymeleaf)"]
-    
-    UserMS --> Postgres[("🐘 PostgreSQL")]
-    UserMS -->|OpenFeign| ViaCEP(["🌐 API ViaCEP"])
-    TaskMS --> Mongo[("🍃 MongoDB")]
-    NotifMS --> SMTP(["📨 SMTP Server"])
-```
-
-| Microservice / Repository | Stack & Persistence | Architectural Responsibility |
-| :--- | :--- | :--- |
-| 🛡️ **[`bff-agendador-tarefas`](https://github.com/matheusrrtavares/bff-agendador-tarefas)** | `Java` `Spring Boot` `OpenFeign` `Swagger/OpenAPI` | Single entry point (API Gateway/BFF), centralized OpenAPI documentation, synchronous orchestration & `@Scheduled` Cron jobs. |
-| 📅 **[`agendador-tarefas`](https://github.com/matheusrrtavares/agendador-tarefas)** | `Java` `Spring Data MongoDB` `MapStruct` `SonarQube` `CI/CD` | Core scheduling engine, temporal queries, status state machine & **90% code quality coverage** on SonarQube. |
-| 🔐 **[`usuario`](https://github.com/matheusrrtavares/usuario)** | `Java` `Spring Security` `JWT` `PostgreSQL` `ViaCEP` | Identity management, stateless JWT authentication, JPA/Hibernate relational persistence & external ViaCEP integration. |
-| 📧 **[`notificacao`](https://github.com/matheusrrtavares/notificacao)** | `Java` `Spring Boot` `JavaMailSender` `Thymeleaf` | Transactional email dispatch engine with dynamic HTML templates. |
-
----
-
 ## 💼 Production Experience | Experiência Profissional
 
 * **Java Backend Developer Intern @ Vision Control** *(Feb 2026 – Aug 2026 | Anápolis, GO)*
