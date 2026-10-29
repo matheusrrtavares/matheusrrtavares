@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusrrtavares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusrrtavares)
 [![Gmail](https://img.shields.io/badge/Email-mathteusrrt1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathteusrrt1@gmail.com)
-[![Location](https://img.shields.io/badge/Location-An%C3%A1polis%2C%20GO%20%7C%20Remote-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![English](https://img.shields.io/badge/English-B2%20Upper--Intermediate-1f6feb?style=for-the-badge&logo=translate&logoColor=white)](#)
 
 </div>
