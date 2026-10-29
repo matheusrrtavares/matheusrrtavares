@@ -1,75 +1,76 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDM1czE1d2t3MzdnaXN6eHk4a3BqeXgwM295cTdvemNzY2JkaDcxaiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6KirhLJyR7oMcwgJQk/giphy.gif"  />
+<div align="center">
+
+# ☕ Matheus Rodrigues Rocha Tavares
+### **Backend Java Developer | Spring Boot • Microservices • RabbitMQ • PostgreSQL • Docker**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusrrtavares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusrrtavares)
+[![Gmail](https://img.shields.io/badge/Email-mathteusrrt1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathteusrrt1@gmail.com)
+[![Location](https://img.shields.io/badge/Location-An%C3%A1polis%2C%20GO%20%7C%20Remote-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![English](https://img.shields.io/badge/English-B2%20Upper--Intermediate-1f6feb?style=for-the-badge&logo=translate&logoColor=white)](#)
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/matheus-rodrigues-061a62271/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mathteusrrt1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+## 👨‍💻 Executive Summary | Resumo Executivo
 
-###
+> 🇺🇸 **English:**
+> **Backend Java Developer** with hands-on **production experience** architecting, developing, and maintaining scalable **microservices** with **Java** and **Spring Boot**. Experienced in real-time vehicle telemetry processing (**Vision Control**), asynchronous messaging with **RabbitMQ**, relational and NoSQL databases (**PostgreSQL, MongoDB, Supabase**), **BFF (Backend For Frontend)** orchestration, **Hexagonal Architecture**, containerization with **Docker**, automated **CI/CD pipelines (GitHub Actions)**, and static code analysis with **SonarQube (90%+ coverage)**. Software Engineering undergraduate (4th semester) and **Scrum Fundamentals Certified (SFC)**.
 
-<h1 data-importer="text" align="center"> Hey there👋 </h1>
+> 🇧🇷 **Português:**
+> **Desenvolvedor Backend Java** com experiência prática em **produção** na arquitetura, desenvolvimento e manutenção de **microsserviços** escaláveis utilizando **Java** e **Spring Boot**. Vivência no processamento de dados de telemetria veicular em tempo real (**Vision Control**), mensageria assíncrona com **RabbitMQ**, bancos de dados SQL e NoSQL (**PostgreSQL, MongoDB, Supabase**), arquitetura **BFF (Backend For Frontend)**, **Arquitetura Hexagonal**, conteinerização com **Docker**, pipelines de **CI/CD (GitHub Actions)** e qualidade de código com **SonarQube (90%+ de cobertura)**. Estudante do 4º período de Engenharia de Software e certificado em Scrum (**SFC**).
 
-###
+---
 
-<h3 data-importer="text" align="left">👩‍💻  About me </h3>
+## 🛠️ Tech Stack & Architecture | Tecnologias e Arquitetura
 
-###
+| Domain / Domínio | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java_17%2F21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Spring Ecosystem** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) |
+| **Architecture & APIs** | ![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=for-the-badge&logo=databricks&logoColor=white) ![Hexagonal](https://img.shields.io/badge/Hexagonal_Arch-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
+| **Messaging & Databases** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black) |
+| **DevOps, CI/CD & QA** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) ![JUnit 5](https://img.shields.io/badge/JUnit_5_%26_Mockito-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-<h3 data-importer="text" align="left">I'm Matheus, a software engineer based on Brazil</h3>
+---
 
-<h3 data-importer="text" align="left">I mostly work on backend and android stuff - Java, Kotlin, Spring Boot</h3>
+## 🏗️ Flagship Architecture: Distributed Task Scheduling Microservices
 
-<h3 data-importer="text" align="left">This is a space where i'll be uploading some projects, experiments, study stuff and things I'm currently working on. Everything here is built from scratch, no copy/paste</h3>
+```mermaid
+flowchart LR
+    Client(["💻 Client / Swagger UI"]) -->|REST + Bearer JWT| BFF["🛡️ bff-agendador-tarefas<br/>(API Gateway / OpenFeign / Cron)"]
+    
+    BFF -->|OpenFeign| UserMS["🔐 usuario<br/>(Spring Security + JWT)"]
+    BFF -->|OpenFeign + JWT| TaskMS["📅 agendador-tarefas<br/>(Core Domain & Status)"]
+    BFF -->|Cron Trigger| NotifMS["📧 notificacao<br/>(JavaMailSender + Thymeleaf)"]
+    
+    UserMS --> Postgres[("🐘 PostgreSQL")]
+    UserMS -->|OpenFeign| ViaCEP(["🌐 API ViaCEP"])
+    TaskMS --> Mongo[("🍃 MongoDB")]
+    NotifMS --> SMTP(["📨 SMTP Server"])
+```
 
-###
+| Microservice / Repository | Stack & Persistence | Architectural Responsibility |
+| :--- | :--- | :--- |
+| 🛡️ **[`bff-agendador-tarefas`](https://github.com/matheusrrtavares/bff-agendador-tarefas)** | `Java` `Spring Boot` `OpenFeign` `Swagger/OpenAPI` | Single entry point (API Gateway/BFF), centralized OpenAPI documentation, synchronous orchestration & `@Scheduled` Cron jobs. |
+| 📅 **[`agendador-tarefas`](https://github.com/matheusrrtavares/agendador-tarefas)** | `Java` `Spring Data MongoDB` `MapStruct` `SonarQube` `CI/CD` | Core scheduling engine, temporal queries, status state machine & **90% code quality coverage** on SonarQube. |
+| 🔐 **[`usuario`](https://github.com/matheusrrtavares/usuario)** | `Java` `Spring Security` `JWT` `PostgreSQL` `ViaCEP` | Identity management, stateless JWT authentication, JPA/Hibernate relational persistence & external ViaCEP integration. |
+| 📧 **[`notificacao`](https://github.com/matheusrrtavares/notificacao)** | `Java` `Spring Boot` `JavaMailSender` `Thymeleaf` | Transactional email dispatch engine with dynamic HTML templates. |
 
-<h3 data-importer="text" align="left">🛠 Tools and Tech</h3>
+---
 
-###
+## 🚀 Other Featured Backend Projects | Outros Projetos em Destaque
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
+* 📈 **[`agregador-de-investimentos`](https://github.com/matheusrrtavares/agregador-de-investimentos):** REST API for investment portfolio management and real-time B3 stock quotes (Brapi integration) using **Spring Boot, Spring Data JPA/Hibernate, MySQL, and JUnit 5 / Mockito**.
+* 🏦 **[`desafio-btgcompactual`](https://github.com/matheusrrtavares/desafio-btgcompactual):** BTG Pactual Backend Technical Challenge solution processing asynchronous order queues with **Java, Spring Boot, RabbitMQ, MongoDB, and Docker Compose**.
+* ⬡ **[`arquitetura-hexagonal`](https://github.com/matheusrrtavares/arquitetura-hexagonal):** REST API applying **Hexagonal Architecture (Ports and Adapters)** and **SOLID** principles for clean domain isolation.
+* 🐇 **[`mensageria-rabbitmq-springboot`](https://github.com/matheusrrtavares/mensageria-rabbitmq-springboot):** Event-driven asynchronous messaging implementation (Producers, Consumers, Exchanges, Queues & Routing Keys) with **Spring AMQP & RabbitMQ**.
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/matheusrrtavares/matheusrrtavares/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/matheusrrtavares/matheusrrtavares/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 💼 Production Experience | Experiência Profissional
 
-###
+* **Java Backend Developer Intern @ Vision Control** *(Feb 2026 – Aug 2026 | Anápolis, GO)*
+  * Architected, developed, and maintained production microservices in **Java & Spring Boot** for real-time vehicle telemetry processing.
+  * Integrated **PostgreSQL**, **Supabase**, asynchronous messaging with **RabbitMQ**, and containerized **Docker** environments.
+  * Gathered requirements with stakeholders in **Scrum/Kanban** sprints and accelerated MVP validation with generative AI workflows.
