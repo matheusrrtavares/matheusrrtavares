@@ -58,15 +58,6 @@ flowchart LR
 
 ---
 
-## 🚀 Other Featured Backend Projects | Outros Projetos em Destaque
-
-* 📈 **[`agregador-de-investimentos`](https://github.com/matheusrrtavares/agregador-de-investimentos):** REST API for investment portfolio management and real-time B3 stock quotes (Brapi integration) using **Spring Boot, Spring Data JPA/Hibernate, MySQL, and JUnit 5 / Mockito**.
-* 🏦 **[`desafio-btgcompactual`](https://github.com/matheusrrtavares/desafio-btgcompactual):** BTG Pactual Backend Technical Challenge solution processing asynchronous order queues with **Java, Spring Boot, RabbitMQ, MongoDB, and Docker Compose**.
-* ⬡ **[`arquitetura-hexagonal`](https://github.com/matheusrrtavares/arquitetura-hexagonal):** REST API applying **Hexagonal Architecture (Ports and Adapters)** and **SOLID** principles for clean domain isolation.
-* 🐇 **[`mensageria-rabbitmq-springboot`](https://github.com/matheusrrtavares/mensageria-rabbitmq-springboot):** Event-driven asynchronous messaging implementation (Producers, Consumers, Exchanges, Queues & Routing Keys) with **Spring AMQP & RabbitMQ**.
-
----
-
 ## 💼 Production Experience | Experiência Profissional
 
 * **Java Backend Developer Intern @ Vision Control** *(Feb 2026 – Aug 2026 | Anápolis, GO)*
