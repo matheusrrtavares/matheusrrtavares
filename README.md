@@ -35,7 +35,7 @@
 
 ## 💼 Production Experience | Experiência Profissional
 
-* **Java Backend Developer Intern @ Vision Control** *(Feb 2026 – Aug 2026 | Anápolis, GO)*
+* **Java Backend Developer Intern @ Vision Control** *(Jan 2026 – Nov 2026 | Anápolis, GO)*
   * Architected, developed, and maintained production microservices in **Java & Spring Boot** for real-time vehicle telemetry processing.
   * Integrated **PostgreSQL**, **Supabase**, asynchronous messaging with **RabbitMQ**, and containerized **Docker** environments.
   * Gathered requirements with stakeholders in **Scrum/Kanban** sprints and accelerated MVP validation with generative AI workflows.
